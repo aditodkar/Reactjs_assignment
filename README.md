@@ -5,9 +5,9 @@
 1) Install dependencies for server
  `npm install`
 
-2) To start front end use `npm start`
+2) To start front end do `npm start`
 
-3) To start back end use `json-server -p 5000 db.json`
+3) To start back end do `json-server -p 5000 db.json`
 
 4) Frontend is working on port 3000 and json server on port 5000
 
